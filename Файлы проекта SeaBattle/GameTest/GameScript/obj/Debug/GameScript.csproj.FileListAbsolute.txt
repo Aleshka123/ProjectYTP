@@ -1,0 +1,7 @@
+C:\Users\andr_\Documents\SeaBattle\Assets\GameTest\GameScript\obj\Debug\GameScript.csprojAssemblyReference.cache
+C:\Users\andr_\Documents\SeaBattle\Assets\GameTest\GameScript\obj\Debug\GameScript.csproj.CoreCompileInputs.cache
+C:\Users\andr_\Documents\SeaBattle\Assets\GameTest\GameScript\bin\Debug\GameScript.exe.config
+C:\Users\andr_\Documents\SeaBattle\Assets\GameTest\GameScript\bin\Debug\GameScript.exe
+C:\Users\andr_\Documents\SeaBattle\Assets\GameTest\GameScript\bin\Debug\GameScript.pdb
+C:\Users\andr_\Documents\SeaBattle\Assets\GameTest\GameScript\obj\Debug\GameScript.exe
+C:\Users\andr_\Documents\SeaBattle\Assets\GameTest\GameScript\obj\Debug\GameScript.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Del+zC8AvsfFRMzUx4aY/zl0/nAGYROH4pQejlr1kFA4vd3CVj432fmirr3jDogjH3DbH3OI/aD+NGu7hArTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andr_\\Documents\\SeaBattle\\Assets\\GameTest\\GameTest\\GameTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andr_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\andr_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
